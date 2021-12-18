@@ -13,10 +13,10 @@ Version 2.x works with paperclip version 4.x.
 
 ### Setup
 
-Add paperclip-meta to Gemfile:
+Add kt-paperclip-meta to Gemfile:
 
 ```ruby
-gem 'paperclip-meta'
+gem 'kt-paperclip-meta'
 ```
 
 Create migration to add a *_meta column:
